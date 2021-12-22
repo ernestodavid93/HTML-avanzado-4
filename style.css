@@ -1,0 +1,80 @@
+body {
+    background-image: url(https://cultura-informatica.com/wp-content/uploads/2021/06/Fondos-de-pantalla-de-teclado-tactil-3-scaled.jpg);
+}
+
+h1{
+    color: red;
+    text-align: center;
+    font-family: "Lucida Console", "Courier New", monospace;
+    
+}
+.barra{
+    background-color: yellow;
+
+}
+
+h2{
+    color: white;
+    text-align: center;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+h3{
+    color: rgb(5, 168, 59);
+    text-align: center;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+a{
+    text-decoration: none;
+    color: orangered;
+    font-size: 2rem;
+}
+
+p{
+    color: white;
+    text-align: center;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+
+img{
+        display:block;
+        margin:auto;
+        width: 500px;
+}
+  
+.card {
+    /* Add shadows to create the "card" effect */
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    background-color: salmon;
+    border-radius: 0.5rem;
+  }
+
+  /* On mouse-over, add a deeper shadow */
+.card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+  
+  /* Add some padding inside the card container */
+  .container {
+    padding: 2px 16px;
+  }
+    
+
+  table {
+    table-layout: fixed;
+    border-collapse: collapse;
+    border: 3px solid purple;
+  }
+  thead {
+      background-color: darkkhaki;
+  }
+  th, td {
+    width: 25%;
+    text-align: left;
+    vertical-align: top;
+    border: 1px solid #000;
+ }
+
